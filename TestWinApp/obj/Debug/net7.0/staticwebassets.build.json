@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HWv4LAm1ZA7eVCeIvZzqYuI6fPQZPx+B8VnpPn1kajI=",
+  "Source": "TestWinApp",
+  "BasePath": "_content/TestWinApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
